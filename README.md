@@ -1,4 +1,4 @@
-# Welcome to my portfolio!
+# Welcome!
 Here, i share my completed data science projects purely for self-learning and hobby purposes. The projects are presented in the form of iPython Notebooks. In addition, i also keep a list of useful data science articles that have helped me in my learning journey. 
 
 ### About Me
