@@ -1,34 +1,13 @@
 # My Data Science Portfolio
-This website serves as a platform for me to track my data science projects
+This website serves as a platform for me to track my learning progress
 
-### Markdown
+### About Me
+I am Joanna and i graduated from Nanyang Technological University (NTU) with a Bachelor in Mathematical Sciences (Statistics). I am an aspiring data scientist and i have strong interest in the domain of machine learning.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
+- [Edureka Techathon](https://github.com/Joanna-Khek/joanna-khek.github.io)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+a = 2
+print(a)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joanna-Khek/joanna-khek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
