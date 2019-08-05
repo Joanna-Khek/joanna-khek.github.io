@@ -6,7 +6,7 @@ I am Joanna and i graduated from Nanyang Technological University (NTU) with a B
 
 ## Projects
 - [Edureka Techathon](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Edureka_Techathon.ipynb)
-- [Shopee National Data Science Challenge (NLP)
+- [Shopee National Data Science Challenge (NLP)](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/NDSC2019.py)
 
 ## Articles
 - [Chatbot](https://mlwhiz.com/blog/2019/04/15/chatbot/?utm_campaign=shareaholic&utm_medium=reddit&utm_source=news)
