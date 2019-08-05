@@ -7,7 +7,3 @@ I am Joanna and i graduated from Nanyang Technological University (NTU) with a B
 ### Projects
 - [Edureka Techathon](https://github.com/Joanna-Khek/joanna-khek.github.io)
 
-```markdown
-a = 2
-print(a)
-```
