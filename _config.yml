@@ -1,3 +1,5 @@
-title: My Data Science Portfolio
-description: [A short description of your site's purpose]
+title: Leap Day theme
+description: Leap Day is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-leap-day
