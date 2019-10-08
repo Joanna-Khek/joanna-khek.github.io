@@ -5,7 +5,7 @@ Here, i share my completed data science projects purely for self-learning and ho
 I am Joanna and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am an aspiring Data Scientist and i have strong interest in the domain of Machine Learning. You can find my linkedin profile [here](https://linkedin.com/in/joannakhek/)
 
 ## Projects
-- [FIFA 19 Dashboard with RShiny](https://joanna-khek.shinyapps.io/fifa_19_dashboard/)
+- [FIFA 19 Dashboard with RShiny](https://joanna-khek.shinyapps.io/fifa_19_dashboard/) [Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/app.R)
 - [Predicting Heart Disease](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Predicting%20Heart%20Disease.ipynb)
 - [Edureka Techathon](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Edureka_Techathon.ipynb)
 - [Shopee National Data Science Challenge (NLP)](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/NDSC2019.py)
