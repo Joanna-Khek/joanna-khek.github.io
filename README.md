@@ -2,7 +2,7 @@
 Here, i share my completed data science and visualization projects purely for self-learning and hobby purposes. The data science projects are presented in the form of iPython Notebooks and python file.
 
 ## About Me
-I am Joanna and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am an aspiring Data Scientist and i have strong interest in the domain of Machine Learning. You can find my linkedin profile [here](https://linkedin.com/in/joannakhek/)
+My name is Joanna Khek Cuina and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am an aspiring Data Scientist and i have strong interest in the domain of Machine Learning. You can find my linkedin profile [here](https://linkedin.com/in/joannakhek/)
 
 ## Data Science Projects
 - [Predicting Heart Disease](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Predicting%20Heart%20Disease.ipynb)
