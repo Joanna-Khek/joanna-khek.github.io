@@ -17,5 +17,5 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 ## Participated Competitions
 - Best Coder Challenge (Oct 2019)
 - Data Arcade Tournament (Sep 2019)
-- Edureka Techathon (Aug 2019)
-- National Data Science Challenge (Mar 2019)
+- Edureka Techathon (Aug 2019) - Winner
+- National Data Science Challenge (Mar 2019) - Top 15%
