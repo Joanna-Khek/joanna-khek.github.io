@@ -13,3 +13,9 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 ## Visualizations
 - [FIFA 19 Dashboard with RShiny](https://joanna-khek.shinyapps.io/fifa_19_dashboard/) 
 - [FIFA 19 Dashboard with RShiny Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/app.R)
+
+## Participated Competitions
+- Best Coder Challenge (Oct 2019)
+- Data Arcade Tournament (Sep 2019)
+- Edureka Techathon (Aug 2019)
+- National Data Science Challenge (Mar 2019)
