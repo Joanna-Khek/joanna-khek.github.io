@@ -13,7 +13,7 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 - [Shopee National Data Science Challenge (NLP)](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/NDSC2019.py)
 - [Titanic: Machine Learning from Disaster](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Titanic%20Machine%20Learning%20from%20Disaster.ipynb)
 
-## Visualizations (Web Application)
+## Visualizations
 ### Dash
 Singapore Resale Flat Prices Web App with Dash 
 - [Website](https://sg-resale-flat-app.herokuapp.com/)
