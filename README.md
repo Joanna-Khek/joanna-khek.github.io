@@ -18,12 +18,12 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 Singapore Resale Flat Prices Web App with Dash 
 - [Website](https://sg-resale-flat-app.herokuapp.com/)
 - [Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/SG_resale_flats_dashboard.py)
+- [Preprocessing Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/SG_resale_flats_cleanup.py)
 
 ### RShiny
 FIFA 19 Dashboard with RShiny 
 - [Website](https://joanna-khek.shinyapps.io/fifa_19_dashboard/)
 - [Dashboard Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/app.R)
-- [Preprocessing Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/SG_resale_flats_cleanup.py)
 
 ## Participated Competitions
 - Shopee I'm the Best Coder Challenge (Oct 2019)
