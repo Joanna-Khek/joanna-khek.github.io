@@ -76,11 +76,15 @@ data4 = data4[cols]
 data5 = data5[cols]
 
 # merge all together
-full_data = pd.concat([data1, data2], axis=0)
-full_data = pd.concat([full_data, data3], axis=0)
+# =============================================================================
+# full_data = pd.concat([data1, data2], axis=0)
+# full_data = pd.concat([full_data, data3], axis=0)
+# full_data = pd.concat([full_data, data4], axis=0)
+# full_data = pd.concat([full_data, data5], axis=0)
+# =============================================================================
+full_data = pd.concat([data2, data3], axis=0)
 full_data = pd.concat([full_data, data4], axis=0)
 full_data = pd.concat([full_data, data5], axis=0)
-
 full_data = full_data.drop(full_data[full_data["flat_type"] == "MULTI GENERATION"].index, axis=0)
 full_data = full_data.drop(full_data[full_data["flat_type"] == "MULTI-GENERATION"].index, axis=0)
 

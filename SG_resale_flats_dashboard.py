@@ -5,16 +5,19 @@ Created on Mon Dec  2 15:38:49 2019
 @author: Joanna Khek Cuina
 """
 # import libraries
+import pandas as pd
+import numpy as np
 import dash
 import dash_core_components as dcc # graph components
 import dash_html_components as html # html components
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 import plotly.graph_objs as go
-import chart_studio.plotly as py
 import plotly.express as px
 
+
 full_data = pd.read_csv("full_resale_flat.csv")
+full_data["date"] = pd.to_datetime(full_data["date"])
 # ------------------------------- DATA ------------------------------ #
 # date vs resale price
 agg_date_resale = pd.DataFrame(full_data.groupby(["date", "town", "flat_type"])["resale_price"].mean())
@@ -24,17 +27,17 @@ agg_date_resale = agg_date_resale.reset_index()
 # floor area vs resale price
 agg_area_resale = pd.DataFrame(full_data.groupby(["flat_type"])["floor_area_sqm", "resale_price"].mean())
 agg_area_resale = agg_area_resale.reset_index()
-agg_area_resale.dtypes
+
 
 # floor vs resale price
 agg_floor_resale = pd.DataFrame(full_data.groupby(["date", "storey_range"])["resale_price"].mean())
 agg_floor_resale = agg_floor_resale.reset_index()
-agg_floor_resale.dtypes
+
 
 # town vs resale price
 agg_town_resale = pd.DataFrame(full_data.groupby(["date", "town"])["resale_price"].mean())
 agg_town_resale = agg_town_resale.reset_index()
-agg_town_resale.dtypes
+
 
 # year vs floor area
 agg_year_floor = pd.DataFrame(full_data.groupby(["date", "flat_type"])["floor_area_sqm"].mean())
@@ -116,9 +119,12 @@ fig4.update_layout(
         'xanchor': 'center',
         'yanchor': 'top'})
     
+
+
 # ---------------------------- DASHBOARD ---------------------------- #
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.config.suppress_callback_exceptions = True
+server = app.server
 
 # CSS
 tabs_styles = {
@@ -141,8 +147,7 @@ app.layout = html.Div([
         dcc.Tabs(id="tabs-styled-with-inline", value="tab-1", children=[
                 dcc.Tab(label="Home Page", value="tab-1", style=tab_style, selected_style=tab_selected_style),
                 dcc.Tab(label="Flat Type", value="tab-2", style=tab_style, selected_style=tab_selected_style),
-                dcc.Tab(label="Town", value="tab-3", style=tab_style, selected_style=tab_selected_style),
-                dcc.Tab(label="Predict Resale Price", value="tab-4", style=tab_style, selected_style=tab_selected_style)], style=tabs_styles),
+                dcc.Tab(label="Town", value="tab-3", style=tab_style, selected_style=tab_selected_style)], style=tabs_styles),
         html.Div(id = "tabs-content-inline")
         ])
 
@@ -172,22 +177,24 @@ def render_content(tab):
     elif tab == "tab-2":
         return html.Div([
                 html.H1("Overview"),
-                dcc.Markdown('''
-                             Please wait patiently while the plots are being loaded.   
-                             Hover over the plots for more information!
-                             '''),
-                dcc.Graph(id="first", figure=fig1),
-                dcc.Graph(id="second", figure=fig2),
-                dcc.Graph(id="third", figure=fig3),
-                #dcc.Graph(id="fourth", figure=fig4)
-                ])
+                dcc.Loading([
+                    dcc.Markdown('''
+                                 Please wait patiently while the plots are being loaded.   
+                                 Hover over the plots for more information!
+                                 '''),
+                    dcc.Graph(id="first", figure=fig1),
+                    dcc.Graph(id="second", figure=fig2),
+                    dcc.Graph(id="third", figure=fig3),
+                    #dcc.Graph(id="fourth", figure=fig4)
+                    ])
+                    ])
                 
     elif tab == "tab-3":
         return html.Div([
                     html.H1("Town"),
                     html.Div([
                         html.Label(["Select a town to view the resale prices:", dcc.Dropdown(
-                                id='town_selection',
+                                id='town_selection', style={'height': '30px', 'width': '500px'},
                                 options=[
                                         {'label': i, 'value': i} for i in full_data["town"].unique()],
                                 value = 'ANG MO KIO'
@@ -196,7 +203,7 @@ def render_content(tab):
     
                     html.Div([
                         html.Label(["Select a flat type to view the resale prices:", dcc.Dropdown(
-                                id='flat_selection',
+                                id='flat_selection', style={'height': '30px', 'width': '500px'},
                                 options=[
                                         {'label': "1 ROOM", 'value': "1 ROOM"},
                                         {'label': "2 ROOM", 'value': "2 ROOM"},
@@ -223,14 +230,7 @@ def render_content(tab):
 # =============================================================================
                     ])
     
-    elif tab == "tab-4":
-        return html.Div([
-                html.H1("Predict Resale Price"),
-                dcc.Markdown('''
-                             In progres...
-                             ''')
-                ])
-          
+
 @app.callback(dash.dependencies.Output('fourth', 'figure'),
               [dash.dependencies.Input('flat_selection', 'value')])
 def update_all_town(flat_selection_name):
@@ -298,6 +298,9 @@ def update_flat_graph(town_selection_name, flat_selection_name):
                 go.Layout(
                         title="<b> Average Resale Prices by Town ({}) and Flat Type ({})</b>".format(town_selection_name, flat_selection_name))
                 }
-                
+          
+   
+
 if __name__ == "__main__":
-    app.run_server(debug=False)
+    app.run_server()
+
