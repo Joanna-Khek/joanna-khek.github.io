@@ -166,13 +166,13 @@ def render_content(tab):
                              Housing prices are fluctuating every year and it is very helpful to have an overview of the housing situation here in Singapore if you are looking to buy or sell your house.
                              This application will provide useful housing information in the form of visualisations.  
                              
-                             In the last tab, through [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), you can input your housing details and the system will output a predicted resale price for you.
-                             
                              The full dataset is available and can be found [here](https://data.gov.sg/dataset/resale-flat-prices).
+                             
+                             Due to the limited memory space of this hosting site, only data from year 2000 ownwards was used.
                              
                              Click on the different tabs above to start exploring!    
                              
-                             Last update: 4 Dec 2019
+                             Last update: 6 Dec 2019
                              ''')])
     elif tab == "tab-2":
         return html.Div([
