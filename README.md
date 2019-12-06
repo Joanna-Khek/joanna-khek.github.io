@@ -1,8 +1,8 @@
 # Welcome!
-Here, i share my completed data science and visualization projects purely for self-learning and hobby purposes. The data science projects are presented in the form of iPython Notebooks and python file.
+Here, i share my completed data science and visualisation projects purely for self-learning and hobby purposes. The data science projects are presented in the form of iPython Notebooks and python file.
 
 ## About Me
-My name is Joanna Khek Cuina and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am an aspiring Data Scientist and i have strong interest in the domain of Machine Learning as well creating web application such as dahsboards. You can find my linkedin profile [here](https://linkedin.com/in/joannakhek/)
+My name is Joanna Khek Cuina and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am an aspiring Data Scientist and i have strong interest in the domain of Machine Learning as well as creating web application such as dahsboards. You can find my linkedin profile [here](https://linkedin.com/in/joannakhek/)
 
 ## Projects
 - [Shopee I'm the Best Coder Challenge (Round 1)](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/best_coder.py)
@@ -22,8 +22,8 @@ Singapore Resale Flat Prices Web App with Dash
 ### RShiny
 FIFA 19 Dashboard with RShiny 
 - [Website](https://joanna-khek.shinyapps.io/fifa_19_dashboard/)
-- [Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/app.R)
-
+- [Dashboard Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/app.R)
+- [Preprocessing Code]
 ## Participated Competitions
 - Shopee I'm the Best Coder Challenge (Oct 2019)
 - Data Arcade Tournament (Sep 2019)
