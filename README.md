@@ -17,7 +17,7 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 ### Dash
 - [Singapore Resale Flat Prices Web App with Dash](https://sg-resale-flat-app.herokuapp.com/)
 
-## RShiny
+### RShiny
 - [FIFA 19 Dashboard with RShiny](https://joanna-khek.shinyapps.io/fifa_19_dashboard/) 
 - [FIFA 19 Dashboard with RShiny Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/app.R)
 
