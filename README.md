@@ -23,7 +23,8 @@ Singapore Resale Flat Prices Web App with Dash
 FIFA 19 Dashboard with RShiny 
 - [Website](https://joanna-khek.shinyapps.io/fifa_19_dashboard/)
 - [Dashboard Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/app.R)
-- [Preprocessing Code]
+- [Preprocessing Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/SG_resale_flats_cleanup.py)
+
 ## Participated Competitions
 - Shopee I'm the Best Coder Challenge (Oct 2019)
 - Data Arcade Tournament (Sep 2019)
