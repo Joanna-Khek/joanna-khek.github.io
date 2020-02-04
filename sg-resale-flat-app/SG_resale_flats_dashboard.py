@@ -161,10 +161,11 @@ def render_content(tab):
                 dcc.Markdown('''
                              ### Welcome!
                              
-                             Hi I'm [Joanna Khek](https://www.linkedin.com/in/joannakhek/) and this is a personal project i am currently working on.   
+                             Hi I'm [Joanna Khek](https://www.linkedin.com/in/joannakhek/) and this is a personal visualisation with dash project i'm currently
+                             working on.
                              
-                             Housing prices are fluctuating every year and it is very helpful to have an overview of the housing situation here in Singapore if you are looking to buy or sell your house.
-                             This application will provide useful housing information in the form of visualisations.  
+                             Housing prices are fluctuating every year and i wanted to have an overview of the housing situation here in Singapore.
+                             I have created resale prices visualisations involving variables such as date, floor area, flat type and town.
                              
                              The full dataset is available and can be found [here](https://data.gov.sg/dataset/resale-flat-prices).
                              
