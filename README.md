@@ -22,9 +22,12 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 # Participated Competitions
 - [Shopee I'm the Best Coder Challenge (Oct 2019)](https://www.dropbox.com/s/zzk02ealua25en7/Im_the_best_coder.jpg?dl=0)    
 I’m the Best Coder! Challenge 2019 is a one-day data analytics competition, open to all students and professionals. The competition consists of 2 rounds of data analysis problems designed by Shopee tech teams. Participants must analyse the dataset, draw insightful conclusions and solve the problems in a specified amount of time. Not only will participants get a chance to code to generate insights that solve real industry problems, but this competition will also provide them with an opportunity to test their coding skills and understand the importance of data analytics skills required in Shopee.
-- [Data Arcade Tournament (Sep 2019)](https://www.dropbox.com/s/ez2kiw12rdlxw7g/Data%20Arcade%20Tournament.pdf?dl=0)
-- [Edureka Techathon (Aug 2019)](https://www.dropbox.com/s/7bdeom0qtorkegp/Edureka_Tech.png?dl=0)
+- [Data Arcade Tournament (Sep 2019)](https://www.dropbox.com/s/ez2kiw12rdlxw7g/Data%20Arcade%20Tournament.pdf?dl=0)    
+The Data Arcade Tournament is an annual public sector visual analytics competition, organised by the Data Science and Artificial Intelligence Division (DSAID) of the Government Technology Agency of Singapore (GovTech). 
+- [Edureka Techathon (Aug 2019)](https://www.dropbox.com/s/7bdeom0qtorkegp/Edureka_Tech.png?dl=0)    
+Perform feature selection by studying the relations between the variables in the data set and understand the importance of each variable with respect to the target feature, i.e., the price of the car. Perform data wrangling, extensive EDA and define a performance metrics that describes the price of a used car. Create a deployable model which takes test set as input and generates a csv file with predicted values of the target variable as output.   
 - [Shopee National Data Science Challenge (Mar 2019)](https://www.dropbox.com/s/i2xcpukt1madh1d/NDSC2019%20Certificate.jpg?dl=0)
+The theme of the National Data Science Challenge 2019 is Product Information Extraction in the Wild - a challenge to extract insightful knowledge from large volumes of textual and visual data using Machine Learning Analytics.
 
 # Certifications
 - [Analyzing and Visualizing Data with Microsoft Power BI (Udemy)](https://www.dropbox.com/s/q90jy6aqljstsq6/PowerBI_Certificate.pdf?dl=0)
