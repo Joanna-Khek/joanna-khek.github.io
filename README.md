@@ -5,7 +5,7 @@ Here, i share my completed data science and visualisation projects purely for se
 My name is Joanna Khek Cuina and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am an aspiring Data Scientist and i have strong interest in the domain of Machine Learning as well as creating web application such as dahsboards. You can find my linkedin profile [here](https://linkedin.com/in/joannakhek/)
 
 ## Projects
-- Newspaper Articles Topic Modelling (In Progress)
+- [Newspaper Articles Topic Modelling](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Topic%20Modelling%20with%20Gensim%20and%20Scikit-Learn.ipynb)
 - [Shopee I'm the Best Coder Challenge](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/best_coder.py)
 - [Cat Dog Classifier](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/cat_dog_classifier.py)
 - [Digit Recognizer](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/digit_recognizer.py)
