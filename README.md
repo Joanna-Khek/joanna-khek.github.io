@@ -1,5 +1,5 @@
 # Welcome!
-Here, i share my completed data science and visualisation projects purely for self-learning and hobby purposes. 
+Here, i share my completed data science and visualisation projects purely for self-learning and hobby purposes.   
 Last updated: 8 February 2020
 
 ## About Me
