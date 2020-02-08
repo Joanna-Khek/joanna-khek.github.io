@@ -26,7 +26,7 @@ I’m the Best Coder! Challenge 2019 is a one-day data analytics competition, op
 The Data Arcade Tournament is an annual public sector visual analytics competition, organised by the Data Science and Artificial Intelligence Division (DSAID) of the Government Technology Agency of Singapore (GovTech). 
 - [Edureka Techathon (Aug 2019)](https://www.dropbox.com/s/7bdeom0qtorkegp/Edureka_Tech.png?dl=0)    
 Perform feature selection by studying the relations between the variables in the data set and understand the importance of each variable with respect to the target feature, i.e., the price of the car. Perform data wrangling, extensive EDA and define a performance metrics that describes the price of a used car. Create a deployable model which takes test set as input and generates a csv file with predicted values of the target variable as output.   
-- [Shopee National Data Science Challenge (Mar 2019)](https://www.dropbox.com/s/i2xcpukt1madh1d/NDSC2019%20Certificate.jpg?dl=0)
+- [Shopee National Data Science Challenge (Mar 2019)](https://www.dropbox.com/s/i2xcpukt1madh1d/NDSC2019%20Certificate.jpg?dl=0)    
 The theme of the National Data Science Challenge 2019 is Product Information Extraction in the Wild - a challenge to extract insightful knowledge from large volumes of textual and visual data using Machine Learning Analytics.
 
 # Certifications
