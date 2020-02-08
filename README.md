@@ -6,6 +6,10 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 
 ## Projects
 - [Newspaper Articles Topic Modelling](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Topic%20Modelling%20with%20Gensim%20and%20Scikit-Learn.ipynb)
+- [Singapore Resale Flat Prices Web App with Dash (Website)](https://sg-resale-flat-app.herokuapp.com/)
+- [Singapore Resale Flat Prices Web App with Dash (Code)]((https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/SG_resale_flats_dashboard.py)
+- [FIFA 19 Dashboard with RShiny (Website)](https://joanna-khek.shinyapps.io/fifa_19_dashboard/)
+- [FIFA 19 Dashboard with RShiny (Code)](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/app.R)
 - [Shopee I'm the Best Coder Challenge](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/best_coder.py)
 - [Cat Dog Classifier](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/cat_dog_classifier.py)
 - [Digit Recognizer](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/digit_recognizer.py)
@@ -13,18 +17,6 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 - [Edureka Techathon](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Edureka_Techathon.ipynb)
 - [Shopee National Data Science Challenge (NLP)](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/NDSC2019.py)
 - [Titanic: Machine Learning from Disaster](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Titanic%20Machine%20Learning%20from%20Disaster.ipynb)
-
-## Visualizations
-### Dash
-Singapore Resale Flat Prices Web App with Dash 
-- [Website](https://sg-resale-flat-app.herokuapp.com/)
-- [Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/SG_resale_flats_dashboard.py)
-- [Preprocessing Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/SG_resale_flats_cleanup.py)
-
-### RShiny
-FIFA 19 Dashboard with RShiny 
-- [Website](https://joanna-khek.shinyapps.io/fifa_19_dashboard/)
-- [Code](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/app.R)
 
 ## Participated Competitions
 - Shopee I'm the Best Coder Challenge (Oct 2019)
