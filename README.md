@@ -30,7 +30,7 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 - [Becoming a Polished Presenter (MDIS)](https://www.dropbox.com/s/4l2yyeuydh28yi6/Polished%20Presenter%20Certificate.JPG?dl=0)
 - [Chairman Innovation Challenge (BCA)](https://www.dropbox.com/s/wqienm5m0wka6r2/CIC19%20SPO-01-ERD.pdf?dl=0)
 - [Tableau Desktop Qualified Associate (Edureka)](https://www.dropbox.com/s/vtlbe105qwjgwkq/tableau_certificate.pdf?dl=0)
-- [Deep Learning with Python](https://www.dropbox.com/s/3hisj6xz7vucnc6/Deep_Learning_Certificate.pdf?dl=0)
+- [Deep Learning with Python (Udemy)](https://www.dropbox.com/s/3hisj6xz7vucnc6/Deep_Learning_Certificate.pdf?dl=0)
 - [Text Analytics (Civil Service College)](https://www.dropbox.com/s/72wyuej69vzrlev/A%20Primer%20in%20Text%20Analytics%20Certificate.pdf?dl=0)
 - [Tensorflow for Deep Learning (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-62CSPK3R.pdf)
 - [Convolutional Neural Networks (Coursera)](https://www.coursera.org/account/accomplishments/certificate/NHZCKPYBXSJH)
