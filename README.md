@@ -21,7 +21,7 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 
 # Participated Competitions
 - [Shopee I'm the Best Coder Challenge (Oct 2019)](https://www.dropbox.com/s/zzk02ealua25en7/Im_the_best_coder.jpg?dl=0)    
-I’m the Best Coder! Challenge Campus Edition 2020 aims to discover the most accurate and most efficient coder.
+I’m the Best Coder! Challenge 2019 is a one-day data analytics competition, open to all students and professionals. The competition consists of 2 rounds of data analysis problems designed by Shopee tech teams. Participants must analyse the dataset, draw insightful conclusions and solve the problems in a specified amount of time. Not only will participants get a chance to code to generate insights that solve real industry problems, but this competition will also provide them with an opportunity to test their coding skills and understand the importance of data analytics skills required in Shopee.
 - [Data Arcade Tournament (Sep 2019)](https://www.dropbox.com/s/ez2kiw12rdlxw7g/Data%20Arcade%20Tournament.pdf?dl=0)
 - [Edureka Techathon (Aug 2019)](https://www.dropbox.com/s/7bdeom0qtorkegp/Edureka_Tech.png?dl=0)
 - [Shopee National Data Science Challenge (Mar 2019)](https://www.dropbox.com/s/i2xcpukt1madh1d/NDSC2019%20Certificate.jpg?dl=0)
