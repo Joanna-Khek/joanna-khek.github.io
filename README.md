@@ -7,7 +7,7 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 ## Projects
 - [Newspaper Articles Topic Modelling](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Topic%20Modelling%20with%20Gensim%20and%20Scikit-Learn.ipynb)
 - [Singapore Resale Flat Prices Web App with Dash (Website)](https://sg-resale-flat-app.herokuapp.com/)
-- [Singapore Resale Flat Prices Web App with Dash (Code)]((https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/SG_resale_flats_dashboard.py)
+- [Singapore Resale Flat Prices Web App with Dash (Code)](https://github.com/Joanna-Khek/joannakhek.github.io/blob/master/SG_resale_flats_dashboard.py)
 - [FIFA 19 Dashboard with RShiny (Website)](https://joanna-khek.shinyapps.io/fifa_19_dashboard/)
 - [FIFA 19 Dashboard with RShiny (Code)](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/app.R)
 - [Shopee I'm the Best Coder Challenge](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/best_coder.py)
