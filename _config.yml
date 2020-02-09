@@ -1,8 +1,8 @@
 # Site settings
 title: Data Science Portfolio
 description: A website for me to keep track of my learning progress
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "www.joanna-khek.github.io" 
+#baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: https://www.linkedin.com/in/joannakhek/
 
 # User settings
 username: Joanna Khek
@@ -10,6 +10,7 @@ user_description: My name is Joanna Khek Cuina and i graduated from Nanyang Tech
 user_title: Aspiring Data Scientist
 email: joannakhek@gmail.com
 linkedin: https://www.linkedin.com/in/joannakhek/
+github_username:  joanna-khek
 
 
 # Google-analytics
