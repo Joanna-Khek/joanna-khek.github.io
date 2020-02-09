@@ -1,4 +1,19 @@
-title: Joanna Khek Cuina
-description: A platform for me to keep track of my learning progress
-show_downloads: true
-theme: jekyll-theme-cayman
+# Site settings
+title: Data Science Portfolio
+description: A website for me to keep track of my learning progress
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "www.joanna-khek.github.io" 
+
+# User settings
+username: Joanna Khek Cuina
+user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_title: Aspiring Data Scientist
+email: joannakhek@gmail.com
+linkedin: https://www.linkedin.com/in/joannakhek/
+
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
