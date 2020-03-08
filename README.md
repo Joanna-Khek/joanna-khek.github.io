@@ -21,7 +21,7 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 - [Titanic: Machine Learning from Disaster](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Titanic%20Machine%20Learning%20from%20Disaster.ipynb)
 
 # Participated Competitions
-- [RShiny Competition 2020 (Mar 2020)](https://github.com/Joanna-Khek/university_comparison)
+- [RShiny Competition 2020 (Mar 2020)](https://github.com/Joanna-Khek/university_comparison)    
 Create a web application using Rshiny. Apps are judged based on technical merit and/or on artistic achievement (e.g., UI design)
 
 - [Shopee I'm the Best Coder Challenge (Oct 2019)](https://www.dropbox.com/s/zzk02ealua25en7/Im_the_best_coder.jpg?dl=0)    
