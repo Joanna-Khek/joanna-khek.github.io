@@ -1,4 +1,21 @@
-title: My Data Science Portfolio
-description: A platform for me to keep track of my learning progress
-show_downloads: true
-theme: jekyll-theme-leap-day
+# Site settings
+title: Data Science Portfolio
+description: A website for me to keep track of my learning progress
+#baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: https://www.linkedin.com/in/joannakhek/
+
+# User settings
+username: Joanna Khek
+user_description: My name is Joanna Khek Cuina and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am a Data Scientist and i have strong interest in the domain of Machine Learning as well as creating web applications. I am currently working in the public service and i am mainly involved in analytics and automation projects. You can find my linkedin profile here https://linkedin.com/in/joannakhek/
+
+user_title: Data Scientist
+email: joannakhek@gmail.com
+linkedin: https://www.linkedin.com/in/joannakhek/
+github_username:  joanna-khek
+
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
