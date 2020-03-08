@@ -1,6 +1,6 @@
 # Welcome!
 Here, i share my completed data science and visualisation projects purely for self-learning and hobby purposes.   
-Last updated: 8 February 2020
+Last updated: 8 March 2020
 
 # About Me
 My name is Joanna Khek Cuina and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am an aspiring Data Scientist and i have strong interest in the domain of Machine Learning as well as creating web application such as dashboards. I also enjoy working on a variety of topics such as Natural Language Processing and Image Classification. You can find my linkedin profile [here](https://linkedin.com/in/joannakhek/)
