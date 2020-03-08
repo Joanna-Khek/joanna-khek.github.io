@@ -6,6 +6,7 @@ Last updated: 8 February 2020
 My name is Joanna Khek Cuina and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am an aspiring Data Scientist and i have strong interest in the domain of Machine Learning as well as creating web application such as dashboards. I also enjoy working on a variety of topics such as Natural Language Processing and Image Classification. You can find my linkedin profile [here](https://linkedin.com/in/joannakhek/)
 
 # Projects
+- [University Comparison Dashboard with RShiny](https://github.com/Joanna-Khek/university_comparison)
 - [Newspaper Articles Topic Modelling](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Topic%20Modelling%20with%20Gensim%20and%20Scikit-Learn.ipynb)
 - [Singapore Resale Flat Prices Web App with Dash (Website)](https://sg-resale-flat-app.herokuapp.com/)
 - [Singapore Resale Flat Prices Web App with Dash (Code)](https://github.com/Joanna-Khek/joannakhek.github.io/blob/master/SG_resale_flats_dashboard.py)
@@ -20,6 +21,9 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 - [Titanic: Machine Learning from Disaster](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Titanic%20Machine%20Learning%20from%20Disaster.ipynb)
 
 # Participated Competitions
+- [RShiny Competition 2020 (Mar 2020)](https://github.com/Joanna-Khek/university_comparison)
+Create a web application using Rshiny. Apps are judged based on technical merit and/or on artistic achievement (e.g., UI design)
+
 - [Shopee I'm the Best Coder Challenge (Oct 2019)](https://www.dropbox.com/s/zzk02ealua25en7/Im_the_best_coder.jpg?dl=0)    
 I’m the Best Coder! Challenge 2019 is a one-day data analytics competition, open to all students and professionals. The competition consists of 2 rounds of data analysis problems designed by Shopee tech teams. Participants must analyse the dataset, draw insightful conclusions and solve the problems in a specified amount of time.
 
