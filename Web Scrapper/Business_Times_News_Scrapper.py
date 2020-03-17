@@ -55,9 +55,9 @@ time.sleep(10)
 # logging in
 driver.find_elements_by_css_selector("li[class*='header-home-group login-link']")[0].click()
 inputElement = driver.find_element_by_name("IDToken1")
-inputElement.send_keys('BCA_BT004')
+inputElement.send_keys('#username here')
 inputElement = driver.find_element_by_name("IDToken2")
-inputElement.send_keys('Bcabt004')
+inputElement.send_keys('#password here')
 driver.find_elements_by_css_selector("button[type*='button'][id='btnLogin']")[0].click() 
 time.sleep(2)
 
