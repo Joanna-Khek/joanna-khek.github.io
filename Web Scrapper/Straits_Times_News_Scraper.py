@@ -54,9 +54,9 @@ time.sleep(2)
 # logging in
 driver.find_elements_by_css_selector("a[class*='mysph_login']")[0].click()
 inputElement = driver.find_element_by_name("IDToken1")
-inputElement.send_keys('BCA_ST004')
+inputElement.send_keys('#username here')
 inputElement = driver.find_element_by_name("IDToken2")
-inputElement.send_keys('Bcast004')
+inputElement.send_keys('#password here')
 driver.find_elements_by_css_selector("button[type*='button'][id='btnLogin']")[0].click() 
 time.sleep(2)
 
