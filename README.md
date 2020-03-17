@@ -1,11 +1,12 @@
 # Welcome!
 Here, i share my completed data science and visualisation projects purely for self-learning and hobby purposes.   
-Last updated: 8 March 2020
+Last updated: 17 March 2020
 
 # About Me
 My name is Joanna Khek Cuina and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am an aspiring Data Scientist and i have strong interest in the domain of Machine Learning as well as creating web application such as dashboards. I also enjoy working on a variety of topics such as Natural Language Processing and Image Classification. You can find my linkedin profile [here](https://linkedin.com/in/joannakhek/)
 
 # Projects
+- [The Straits Times & The Business Times Web Scrapper](https://github.com/Joanna-Khek/joanna-khek.github.io/tree/master/Web%20Scrapper)
 - [University Comparison Dashboard with RShiny](https://github.com/Joanna-Khek/university_comparison)
 - [Newspaper Articles Topic Modelling](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Topic%20Modelling%20with%20Gensim%20and%20Scikit-Learn.ipynb)
 - [Singapore Resale Flat Prices Web App with Dash (Website)](https://sg-resale-flat-app.herokuapp.com/)
