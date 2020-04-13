@@ -6,6 +6,7 @@ Last updated: 17 March 2020
 My name is Joanna Khek Cuina and i graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. I am an aspiring Data Scientist and i have strong interest in the domain of Machine Learning as well as creating web application such as dashboards. I also enjoy working on a variety of topics such as Natural Language Processing and Image Classification. You can find my linkedin profile [here](https://linkedin.com/in/joannakhek/)
 
 # Projects
+- [E-Commerce Hackathon](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/E-commerce%20Hackathon/E-Commerce%20Hackathon.ipynb)
 - [The Straits Times & The Business Times Web Scrapper](https://github.com/Joanna-Khek/joanna-khek.github.io/tree/master/Web%20Scrapper)
 - [University Comparison Dashboard with RShiny](https://github.com/Joanna-Khek/university_comparison)
 - [Newspaper Articles Topic Modelling](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Topic%20Modelling%20with%20Gensim%20and%20Scikit-Learn.ipynb)
@@ -22,6 +23,9 @@ My name is Joanna Khek Cuina and i graduated from Nanyang Technological Universi
 - [Titanic: Machine Learning from Disaster](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/Titanic%20Machine%20Learning%20from%20Disaster.ipynb)
 
 # Participated Competitions
+- [E-Commerce Analytics Hackathon (Apr 2020)](https://github.com/Joanna-Khek/joanna-khek.github.io/blob/master/E-commerce%20Hackathon/E-Commerce%20Hackathon.ipynb)     
+The hackathon was organised by Analytics Vidhya and it ran from 10 April to 12 April. The dataset contained a list of products viewed by the user in the given session and also the category, sub-category, sub-sub category and the product id. The aim of this hackathon was to predict the gender of the e-commerce's participants based on their product viewing records.     
+
 - [RShiny Competition 2020 (Mar 2020)](https://github.com/Joanna-Khek/university_comparison)    
 Create a web application using Rshiny. Apps are judged based on technical merit and/or on artistic achievement (e.g., UI design)
 
