@@ -1,0 +1,13 @@
+name: Animal_Crossing_Villager_Insights
+title: Animal_Crossing_Villager_Insights
+username:
+account: joanna-khek
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2304057
+bundleId: 3155041
+url: https://joanna-khek.shinyapps.io/Animal_Crossing_Villager_Insights/
+when: 1589637494.51973
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Animal Crossing Cleaning.ipynb|Animal_Crossing_Full_Data.csv|Clean_Animal_Crossing_General.csv|Villager_Data_11_May_2020.csv|Villager_Data_16_May_2020.csv|Villager_House_Image.csv|.ipynb_checkpoints/Animal Crossing Cleaning-checkpoint.ipynb|Data/Animal Crossing Cleaning.ipynb|Data/.ipynb_checkpoints/Animal Crossing Cleaning-checkpoint.ipynb

@@ -1,0 +1,67 @@
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link  {
+    color: #fff;
+    background-color: #1C7C24;
+}
+
+.nav-pills .nav-link {
+  color:#46344E;
+  font-weight: bold;
+}
+
+.nav-pills:hover .nav-link:hover {
+  color: #46344E;
+  font-weight: bold;
+}
+
+.nav-pills .nav-link.active:hover, .nav-pills .show>.nav-link:hover  {
+    color: #fff ;
+    background-color: #6BC973;
+    font-weight: bold;
+}
+
+
+.navbar-vertical.navbar-expand-md .navbar-brand-img {
+  max-height: 5rem;
+}
+
+.navbar-vertical.navbar-expand-md .navbar-brand{
+  padding-bottom: 0rem;
+}
+
+
+.text-primary {
+    color: #46344E !important;
+    font-size: 1.3em !important;
+}
+
+.icon-shape-primary {
+    background-color: #46344E !important;
+}
+
+
+
+table.dataTable.no-footer {
+    border-bottom: 0px solid #111 !important;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+    border-bottom: 0px solid #111 !important; 
+}
+
+.dataTables_wrapper.no-footer .dataTables_scrollBody {
+    border-bottom: 0px solid #111 !important;
+}
+
+.bg-info {
+    background-color: #46344E !important;
+}
+
+.card-body {
+    padding: 0rem 1.5rem;
+    flex: 1 1 auto;
+}
+
+div.selectize-input div.item {
+  color: #fff !important;
+  background-color: #1C7C24 !important;
+}
