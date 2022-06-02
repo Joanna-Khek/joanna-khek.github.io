@@ -2,11 +2,12 @@ _site
 .sass-cache
 node_modules
 .DS_STORE
-.SG_resale_flats_cleanup.py
-.SG_resale_flats_dashboard.py
-.Titanic Machine Learning from Disaster.ipynb
-.Titanic Machine Learning from Disaster.ipynb
-.Predicting Heart Disease.ipynb
-.Edureka_Techathon.ipynb
-./sg-resale-flat-app
-.NDSC2019.py
+SG_resale_flats_cleanup.py
+SG_resale_flats_dashboard.py
+Titanic_Machine_Learning_from_Disaster.ipynb
+Topic_Modelling_with_Gensim_and_Scikit-Learn.ipynb
+Predicting _Heart_Disease.ipynb
+Edureka_Techathon.ipynb
+/sg-resale-flat-app
+NDSC2019.py
+Production_Detection
