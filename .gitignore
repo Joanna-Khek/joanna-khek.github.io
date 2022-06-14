@@ -2,8 +2,10 @@ _site
 .sass-cache
 node_modules
 .DS_STORE
-*.py
 Titanic_Machine_Learning_from_Disaster.ipynb
 Topic_Modelling_with_Gensim_and_Scikit-Learn.ipynb
 Predicting_Heart_Disease.ipynb
 Edureka_Techathon.ipynb
+NDSC2019.py
+SG_resale_flats_cleanup.py
+SG_resale_flats_dashboard.py
