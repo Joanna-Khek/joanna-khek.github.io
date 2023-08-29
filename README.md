@@ -8,7 +8,7 @@
 
 :scroll: Visit my portfolio page here: [https://joanna-khek.github.io/](https://joanna-khek.github.io/)
 
-:mortar_board: I am currently a data scientist in the public sector. I obtained my MSc in Statistics from National University of Singapore (NUS) in 2022 and a BSc in Mathematical Sciences from Nanyang Technological University of Singapore (NTU) in 2018. I have strong interest in the domain of machine learning as well as creating web applications. Feel free to connect with me on LinkedIn!
+:mortar_board: I am currently a Data Scientist in the Public Sector. I obtained my MSc in Statistics from National University of Singapore (NUS) in 2022 and a BSc in Mathematical Sciences from Nanyang Technological University of Singapore (NTU) in 2018. I have strong interest in the domain of Machine Learning as well as creating Web Applications. Feel free to connect with me on LinkedIn!
 
-:love_hotel: I am a Data Scientist and I have strong interest in the domain of Machine Learning as well as creating web applications. I am currently working in the public service and I am mainly involved in analytics and automation projects. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/joannakhek/)!
+:love_hotel: I am a Data Scientist and I have strong interest in the domain of Machine Learning as well as creating web applications. I am currently working in the Public Service and I am mainly involved in analytics and automation projects. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/joannakhek/)!
 
