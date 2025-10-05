@@ -1,15 +1,34 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div class="user-details">
   <h1> About Me </h1>
   <!-- <a href="https://www.linkedin.com/in/joannakhek/">
   		<img src="assets/img/linkedin_profile.png" alt="Joanna LinkedIn" style='max-height: 100%; max-width: 100%; object-fit: contain'/>
   </a> -->
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="joannakhek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/joannakhek?trk=profile-badge">Joanna Khek Cuina</a></div>
+  <!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="joannakhek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/joannakhek?trk=profile-badge">Joanna Khek Cuina</a></div>
               
   <p> {{site.user_description}} </p>
   <p> {{site.user_passion}} </p>
   <p> {{site.user_sign_off}} </p>
+</div> --> -->
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="user-details">
+  <h1> About Me </h1>
+  
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <!-- LinkedIn Badge -->
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="joannakhek" data-version="v1">
+
+    </div>
+    
+    <!-- Text Content -->
+    <div style="flex: 1;">
+      <p> {{site.user_description}} </p>
+      <p> {{site.user_passion}} </p>
+      <p> {{site.user_sign_off}} </p>
+    </div>
+  </div>
 </div>
-
-
