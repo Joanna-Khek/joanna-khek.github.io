@@ -3,6 +3,39 @@
 </div>
 
 <div class="user-projects">
+  <div class="images-right">
+    <img
+      alt="Flashcard Generator fine-tuning demo"
+      src="{{ "assets/img/finetune_demo_2.png" | prepend: site.baseurl }}"
+    />
+  </div>
+
+  <div class="contents-left">
+    <h3>Supervised Finetuning (SFT)</h3>
+
+    <ul>
+      <li>Python, OpenAI API, Unsloth, TRL, LoRA, Gradio</li>
+    </ul>
+
+    <p>
+      A supervised fine-tuning project focused on teaching a compact Qwen 3.5 2B
+      model to generate structured, evidence-backed flashcards from source
+      passages. The pipeline collects Wikipedia passages, uses a stronger model
+      to create synthetic training data, fine-tunes the base model with LoRA,
+      and compares the fine-tuned output against the original model in a Gradio
+      demo.
+    </p>
+
+    <a
+      class="project-link"
+      href="https://github.com/Joanna-Khek/flashcard-generator"
+    >
+      Check it out
+    </a>
+  </div>
+</div>
+
+<div class="user-projects">
   <div class="images-left">
     <img alt="messagemind" src="{{ "assets/img/message-mind.png" | prepend:
     site.baseurl }}" />
