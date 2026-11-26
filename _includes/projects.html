@@ -3,6 +3,37 @@
 </div>
 
 <div class="user-projects">
+  <div class="images-left">
+    <img alt="Synthora logo" src="{{ "assets/img/synthora.png" | prepend:
+    site.baseurl }}" />
+  </div>
+  <div class="contents-right">
+    <h3>Synthora</h3>
+    <ul>
+      <li>LangGraph, MCP, LLM agents, Obsidian, Fly.io</li>
+    </ul>
+    <p>
+      I'm always saving things to read later: articles, GitHub repos, LinkedIn posts, the odd
+      YouTube video. Most of them I never went back to. And when I did take notes, they ended up
+      as scattered pages that had nothing to do with each other.
+    </p>
+    <p>
+      So I built Synthora. Now I just send a link to my Telegram bot, and a minute later it
+      replies with the main idea. Meanwhile, it files the link into my Obsidian notes for me,
+      connecting it to topics I've saved before or starting a new one. Over time, related ideas
+      end up grouped together, and the more I save, the more connected my notes become.
+    </p>
+    <p>
+      Behind the scenes, it's two LangGraph pipelines with LLM agents, extraction tools served over
+      MCP, and a server on Fly.io that keeps everything in sync, even when my laptop is off.
+    </p>
+    <a class="project-link" href="https://github.com/Joanna-Khek/synthora/"
+      >Check it out</a
+    >
+  </div>
+</div>
+
+<div class="user-projects">
   <div class="images-right">
     <img alt="sft" src="{{ "assets/img/finetune_demo_2.png" | prepend:
     site.baseurl }}" />
