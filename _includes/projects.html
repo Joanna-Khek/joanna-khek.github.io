@@ -3,9 +3,18 @@
 </div>
 
 <div class="user-projects">
-  <div class="images-left">
-    <img alt="Synthora logo" src="{{ "assets/img/synthora.png" | prepend:
-    site.baseurl }}" />
+ <div class="images-left" style="display: flex; flex-direction: column; gap: 12px;">
+    <img alt="Synthora logo"
+         src="{{ "assets/img/synthora-logo.svg" | prepend: site.baseurl }}"
+         style="width: 60%; align-self: center;" />
+    <div style="display: flex; gap: 12px; align-items: stretch;">
+      <img alt="Telegram chat: the bot replies to a link with a TL;DR"
+           src="{{ "assets/img/telegram_screenshot.png" | prepend: site.baseurl }}"
+           style="width: 50%; height: 320px; object-fit: cover; object-position: top; border-radius: 8px; border: 1px solid #e5e5e5;" />
+      <img alt="Obsidian graph linking a saved article to related topics"
+           src="{{ "assets/img/obsidian-graph.png" | prepend: site.baseurl }}"
+           style="width: 50%; height: 320px; object-fit: contain; border-radius: 8px; border: 1px solid #e5e5e5; background: #fff;" />
+    </div>
   </div>
   <div class="contents-right">
     <h3>Synthora</h3>

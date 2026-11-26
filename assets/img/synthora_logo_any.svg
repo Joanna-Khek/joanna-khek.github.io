@@ -1,0 +1,35 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150" width="600" height="150">
+  <!-- Any-theme variant: deeper gradient on the symbol and the wordmark, readable on light and dark backgrounds -->
+  <defs>
+    <linearGradient id="synGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0EA5C9"></stop>
+      <stop offset="52%" stop-color="#6355F5"></stop>
+      <stop offset="100%" stop-color="#A855F7"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Agent connection symbol -->
+  <g transform="translate(18 17)" fill="none" stroke="url(#synGrad)" stroke-width="5" stroke-linecap="round">
+    <path d="M18 20 C45 20 42 58 78 58"></path>
+    <path d="M18 98 C45 98 42 58 78 58"></path>
+    <path d="M78 58 C99 58 100 27 121 27"></path>
+    <path d="M78 58 C99 58 100 89 121 89"></path>
+    <path d="M18 20 Q78 0 121 27" opacity=".4" stroke-width="2.5"></path>
+    <path d="M18 98 Q78 116 121 89" opacity=".4" stroke-width="2.5"></path>
+  </g>
+
+  <!-- Agent nodes -->
+  <g fill="url(#synGrad)">
+    <circle cx="36" cy="37" r="8"></circle>
+    <circle cx="36" cy="115" r="8"></circle>
+    <circle cx="96" cy="75" r="12"></circle>
+    <circle cx="139" cy="44" r="7"></circle>
+    <circle cx="139" cy="106" r="7"></circle>
+  </g>
+
+  <circle cx="96" cy="75" r="5" fill="#FFFFFF"></circle>
+
+  <!-- Wordmark -->
+  <text x="178" y="91" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="650" letter-spacing="-2" fill="url(#synGrad)">Synthora</text>
+</svg>
