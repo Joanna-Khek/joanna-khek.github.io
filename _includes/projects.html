@@ -4,37 +4,27 @@
 
 <div class="user-projects">
  <div class="images-left" style="display: flex; flex-direction: column; gap: 12px;">
-    <img alt="Synthora logo"
-         src="{{ "assets/img/synthora-logo.svg" | prepend: site.baseurl }}"
-         style="width: 60%; align-self: center;" />
     <div style="display: flex; gap: 12px; align-items: stretch;">
       <img alt="Telegram chat: the bot replies to a link with a TL;DR"
            src="{{ "assets/img/telegram_screenshot.png" | prepend: site.baseurl }}"
            style="width: 50%; height: 320px; object-fit: cover; object-position: top; border-radius: 8px; border: 1px solid #e5e5e5;" />
       <img alt="Obsidian graph linking a saved article to related topics"
-           src="{{ "assets/img/obsidian-graph.png" | prepend: site.baseurl }}"
+           src="{{ "assets/img/obsidian_graph.png" | prepend: site.baseurl }}"
            style="width: 50%; height: 320px; object-fit: contain; border-radius: 8px; border: 1px solid #e5e5e5; background: #fff;" />
     </div>
   </div>
-  <div class="contents-right">
+    <div class="contents-right">
     <h3>Synthora</h3>
     <ul>
       <li>LangGraph, MCP, LLM agents, Obsidian, Fly.io</li>
     </ul>
     <p>
-      I'm always saving things to read later: articles, GitHub repos, LinkedIn posts, the odd
-      YouTube video. Most of them I never went back to. And when I did take notes, they ended up
-      as scattered pages that had nothing to do with each other.
-    </p>
-    <p>
-      So I built Synthora. Now I just send a link to my Telegram bot, and a minute later it
-      replies with the main idea. Meanwhile, it files the link into my Obsidian notes for me,
-      connecting it to topics I've saved before or starting a new one. Over time, related ideas
-      end up grouped together, and the more I save, the more connected my notes become.
-    </p>
-    <p>
-      Behind the scenes, it's two LangGraph pipelines with LLM agents, extraction tools served over
-      MCP, and a server on Fly.io that keeps everything in sync, even when my laptop is off.
+      Trying to keep up with AI, I'd save articles and repos to read later, then never look at
+      them again. So I built a Telegram bot to send them to instead. Within a minute it replies
+      with the main idea. Behind the scenes, it writes a note for each link in Obsidian and links
+      it to the topics, tools and people it mentions, creating new topics when needed. Each topic
+      keeps a running summary that gets updated as I save more on it, so over time my notes grow
+      into a connected map of everything I've been learning.
     </p>
     <a class="project-link" href="https://github.com/Joanna-Khek/synthora/"
       >Check it out</a
